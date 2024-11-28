@@ -1,5 +1,7 @@
 # My-Portfolio
 
+![Capture 2 o](https://github.com/user-attachments/assets/aadbcecc-e705-41ce-99db-ae4ef4284484)
+
 A Resposive and attractive portfolio for Developers 🔥
 
 A clean, beautiful and responsive portfolio templete with using only HTML and css. Later on add some javascript for animation and designing. visit the website
